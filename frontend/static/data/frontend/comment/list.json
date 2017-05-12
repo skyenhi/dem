@@ -1,0 +1,45 @@
+{
+    "code": 200,
+    "data": {
+        "list": [
+            {
+                "_id": "58f0cd6d19dd174626d3c400",
+                "article_id": "58482421d4352863efb5546d",
+                "userid": "58f0aa0319dd174626d3c3ff",
+                "username": "dbears",
+                "email": "",
+                "content": "Lorem ipsum dolor sit ametkin",
+                "creat_date": "2017-04-14 21:23:57",
+                "is_delete": 0,
+                "timestamp": 1492176237,
+                "__v": 0
+            },
+            {
+                "_id": "588185ac7ae2b90474908732",
+                "article_id": "58482421d4352863efb5546d",
+                "userid": "58759d69fafe866f8d1ea520",
+                "username": "",
+                "email": "",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "creat_date": "2017-01-20 11:01:20",
+                "is_delete": 0,
+                "timestamp": 1484883372,
+                "__v": 0
+            },
+            {
+                "_id": "588185987ae2b90474908731",
+                "article_id": "58482421d4352863efb5546d",
+                "userid": "58759d69fafe866f8d1ea520",
+                "username": "Lorem",
+                "email": "",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                "creat_date": "2017-01-20 11:01:49",
+                "is_delete": 0,
+                "timestamp": 1484883352,
+                "__v": 0
+            }
+        ],
+        "total": 3,
+        "hasNext": 0
+    }
+}

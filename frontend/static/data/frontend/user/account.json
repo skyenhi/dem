@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "data": {
+        "_id": "590ac760ab495e4620a51780",
+        "username": "kink1905",
+        "password": "70001def87f39ccbada1a9803167741f",
+        "email": "nhithai88@gmail.com",
+        "creat_date": "2017-05-04 14:17:04",
+        "update_date": "2017-05-04 14:17:04",
+        "is_delete": 0,
+        "timestamp": 1493878624,
+        "__v": 0
+    }
+}
